@@ -325,26 +325,26 @@
 
         #endregion
 
-        private Panel panel1;
-        private Label label1;
-        private PictureBox pictureBox2;
-        private PictureBox pictureBox1;
-        private Button btnSifarisEt;
-        private PictureBox pictureBox3;
-        private PictureBox pictureBox4;
-        private PictureBox pictureBox5;
-        private PictureBox pictureBox7;
-        private NumericUpDown numericUpDown1;
-        private NumericUpDown numericUpDown2;
-        private NumericUpDown numericUpDown3;
-        private NumericUpDown numericUpDown4;
-        private NumericUpDown numericUpDown5;
-        private NumericUpDown numericUpDown6;
-        private NumericUpDown numericUpDown7;
-        private NumericUpDown numericUpDown8;
-        private PictureBox pictureBox6;
-        private PictureBox pictureBox8;
-        private PictureBox pictureBox9;
-        private PictureBox pictureBox10;
+        public Panel panel1;
+        public Label label1;
+        public PictureBox pictureBox2;
+        public PictureBox pictureBox1;
+        public Button btnSifarisEt;
+        public PictureBox pictureBox3;
+        public PictureBox pictureBox4;
+        public PictureBox pictureBox5;
+        public PictureBox pictureBox7;
+        public NumericUpDown numericUpDown1;
+        public NumericUpDown numericUpDown2;
+        public NumericUpDown numericUpDown3;
+        public NumericUpDown numericUpDown4;
+        public NumericUpDown numericUpDown5;
+        public NumericUpDown numericUpDown6;
+        public NumericUpDown numericUpDown7;
+        public NumericUpDown numericUpDown8;
+        public PictureBox pictureBox6;
+        public PictureBox pictureBox8;
+        public PictureBox pictureBox9;
+        public PictureBox pictureBox10;
     }
 }
